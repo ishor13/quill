@@ -36,7 +36,7 @@
     "deep-equal": "^1.0.1",
     "eventemitter3": "^2.0.3",
     "extend": "^3.0.2",
-    "parchment": "^1.1.4",
+    "parchment": "https://github.com/ishor13/parchment/releases/download/v1.0/parchment-1.1.4.tgz",
     "quill-delta": "^3.6.2"
   },
   "devDependencies": {
